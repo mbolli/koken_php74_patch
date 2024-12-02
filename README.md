@@ -1,5 +1,8 @@
 # koken_php74_patch
 
+> [!CAUTION]
+> This repo was archived, as [modufolio/Koken-App](https://github.com/modufolio/Koken-App) is a more complete approach
+
 After my hoster upgraded PHP to version 7 and MySQL to 8?, Koken was not happy.
 
 This should help. No guarantees though, the goal was to make it run.
